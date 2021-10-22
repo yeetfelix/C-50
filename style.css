@@ -1,0 +1,16 @@
+.header{
+    background-color: cornflowerblue;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.menu{
+    color: #070;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
